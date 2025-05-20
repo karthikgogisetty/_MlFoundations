@@ -23,11 +23,11 @@ This repository tracks a structured, weekly journey into Python programming and 
 ---
 
 ### 📙 Week 3: Logistic Regression & Classification Tasks
-**📁 `Week 3/Logistic Regression Assignment/`**
-- [`Assignment Solution.ipynb`](Week%203/Logistic%20Regression%20Assignment/Assignment%20Solution.ipynb) – Classification task with logistic regression.
-
 **📁 `Week 3/Logistic Regression Model/`**
-- [`Logistic Regression Model.ipynb`](Week%203/Logistic%20Regression%20Model/Logistic%20Regression%20Model.ipynb) – Logistic regression implementation.
+- [`Assignment Solution.ipynb`](Week%203/Logistic%20Regression%20Model/Assignment%20Solution.ipynb) – Classification task with logistic regression.
+
+**📁 `Week 3/Logistic Regression Assignment/`**
+- [`Logistic Regression Model.ipynb`](Week%203/Logistic%20Regression%20Assignment/Logistic%20Regression%20Model.ipynb) – Logistic regression implementation.
 
 ---
 
